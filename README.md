@@ -1,6 +1,9 @@
 ### Hi, I'm happy to see you!👋
 
-My name Tolpeko Vyacheslav. I'm from Belarus, living in Slutsk. You can find me on https://www.linkedin.com/in/toslav/ 
+My name Tolpeko Vyacheslav. I'm from Belarus, living in Slutsk. 
+
+## You can find me on:
+linkedin: https://www.linkedin.com/in/toslav/ 
 
 
 
